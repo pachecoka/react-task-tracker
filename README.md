@@ -2,6 +2,15 @@
 
 This app was created following the [React JS Crash Course from Traversy](https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=12s&ab_channel=TraversyMedia)
 
+## Run mock server
+
+Run `npm run server` to start json server on port 5000
+
+## Run application
+
+Run `npm start` to run application on development mode
+
+More on running react application below
 
 # Getting Started with Create React App
 
